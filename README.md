@@ -30,3 +30,5 @@ The model outputs:
 - **R² Score** — how well the model explains variance
 - **Mean Squared Error** — prediction accuracy
 - Feature weights and intercept for interpretability
+
+## CSE3 Project
