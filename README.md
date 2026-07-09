@@ -1,5 +1,10 @@
 # CO₂ Emission Predictor
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Linear_Regression-orange)
+![pandas](https://img.shields.io/badge/pandas-DataFrame-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
+
 A machine learning project that predicts **CO₂ emissions from cars** using **Linear Regression**. Built with Python as part of a CS106 ML project.
 
 ## Dataset
@@ -31,4 +36,21 @@ The model outputs:
 - **Mean Squared Error** — prediction accuracy
 - Feature weights and intercept for interpretability
 
-## CSE3 Project
+## Setup & Usage
+
+```bash
+# Clone the repo
+git clone https://github.com/guneettoppo/CO2_emission_predictor.git
+cd CO2_emission_predictor
+
+# Install dependencies
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+
+# Launch the notebook
+jupyter notebook CO2_Car_Emissions.ipynb
+```
+
+## Authors
+
+- **Guneet Toppo** - [@guneettoppo](https://github.com/guneettoppo)
+- **Garvit Bansal** - [@garvitbansal](https://github.com/garvitbansal)
